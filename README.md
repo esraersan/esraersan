@@ -4,6 +4,5 @@
 
 # Hi, I'm Esra
 
-AI engineer transitioning into **AI4Science** and **biotech**.
-
-I'm building projects at the intersection of machine learning, multimodal AI, scientific research, and computational biology.
+> ML engineer & data scientist working across RAG systems, LLM agents, multimodal AI, NLP, data mining, privacy-preserving ML, and AI evaluation.
+> Right now I'm deep in AI4Science, building at the intersection of machine learning and computational biology, with a life outside the terminal that involves travelling, volleyball, kayaking, ice skating, painting, and learning languages.
